@@ -1,0 +1,33 @@
+ul{
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(255, 86, 86);
+    list-style: square;
+}
+ul li{
+    padding: 10px;
+    margin: 15px 30px;
+    background: rgb(255, 128, 128);
+}
+ul li:hover{
+    background: red;
+    scale: 1.05;
+}
+
+
+
+ol{
+    padding: 30px;
+    margin: 10px;
+    background: rgb(255, 123, 66);
+    list-style: square;
+}
+ol li{
+    padding: 15px;
+    margin: 20px 30px;
+    background: rgb(255, 155, 112);
+}
+ol li:hover{
+    background: rgb(255, 77, 0);
+    scale: 1.05;
+}
